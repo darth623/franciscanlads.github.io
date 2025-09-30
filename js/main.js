@@ -1,4 +1,4 @@
-(function ($) {
+$(function() {
   "use strict";
 
   // Preloader (if the #preloader div exists)
@@ -119,5 +119,5 @@
     items: 1
   });
 
-})(jQuery);
+});
 
